@@ -21,12 +21,12 @@ step 6 -> Printing Result: Calls the count_digit  function with the user-provide
 
 Example 1:
 
-Input: n = 13
+Input: n1 = 13
 
 Output: 6
 
 Example 2:
 
-Input: n = 0
+Input: n1 = 0
 
 Output: 0
